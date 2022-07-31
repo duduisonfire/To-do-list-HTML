@@ -16,7 +16,7 @@ function main(){
   function deleteListObject(element){
     let fatherNode = element.parentNode;
     fatherNode.remove();
-    listSave()
+    listSave();
   }
   
   function listSave(){
@@ -44,9 +44,9 @@ function main(){
   
   const addList = document.querySelector('#addList');
   const  list = document.querySelector('#list');
-  const addText = document.querySelector('.add-to-list')
+  const addText = document.querySelector('.add-to-list');
   
-  listRecover(list)
+  listRecover(list);
   
   addList.addEventListener('click', event => {
     let element = event.target;
@@ -54,7 +54,7 @@ function main(){
     if (element.tagName === 'BUTTON'){
       let listObject = createListObject();
       insertObjectInList(listObject);
-      listSave()
+      listSave();
     }
   })
   
@@ -66,4 +66,4 @@ function main(){
   })
 }
 
-main()
+main();
