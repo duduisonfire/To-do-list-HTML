@@ -1,12 +1,10 @@
 function main(){
   function createListObject(){
     let newElement = document.createElement('li');
-    //let listObject = document.createElement('li');
     let addButton = document.createElement('button');
     addButton.innerText = 'Apagar';
     newElement.innerHTML = `<span>${addText.value}</span>`;
     newElement.appendChild(addButton);
-    //newElement.appendChild(listObject);
     
     return newElement;
   }
