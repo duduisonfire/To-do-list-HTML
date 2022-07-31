@@ -29,7 +29,6 @@ function main(){
     }
   
     const listJson = JSON.stringify(savedList);
-    console.log(listJson);
     localStorage.setItem('list', listJson);
   }
   
