@@ -8,10 +8,8 @@ Layout totalmente responsivo.
 Você pode pré-visualizar este projeto no link: https://duduisonfire.github.io/To-do-list-HTML/
 
 ---
-Hello, welcome, my name is Igor Tiburcio Cavalcanti and this is a project that I created during my studies in HTML, CSS, Bootstrap and JavaScript.
+Hello, welcome, my name is Igor Tiburcio Cavalcanti and this is a project that I created during my studies in HTML, CSS and JavaScript.
 
-This is a To-do-List made with HTML, CSS and JavaScript in order to practice learning JavaScript.
+This is a basic game made with HTML, CSS and JavaScript in order to practice learning JavaScript.
 
-Fully responsive.
-
-You can preview this project at the link: https://duduisonfire.github.io/To-do-list-HTML/
+You can preview this project at the link: https://duduisonfire.github.io/Mata-Mosquito-Game-HTML/
