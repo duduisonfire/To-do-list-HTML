@@ -12,6 +12,6 @@ Hello, welcome, my name is Igor Tiburcio Cavalcanti and this is a project that I
 
 This is a To-do-List made with HTML, CSS and JavaScript in order to practice learning JavaScript.
 
-Fully responsive.
+Fully responsive layout.
 
 You can preview this project at the link: https://duduisonfire.github.io/To-do-list-HTML/
